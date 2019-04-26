@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS userstest;
+CREATE DATABASE userstest;
